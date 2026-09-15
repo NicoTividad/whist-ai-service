@@ -1,0 +1,22 @@
+# whist learning agent weights
+# updateMode: averaged
+# trainingDeals: 2000
+# learningRate: 0.01
+# deckSeed: 1
+# playerSeed: 1
+# provenance: relabelled from learningWeights.txt; produced by the averaged stabilisation run
+# curveFile: results/learningCurveAveragedUpdate.csv
+0.8791530361338064
+0.19488432188665092
+-0.22739150596810753
+0.2532860331230411
+0.18874787498082815
+-1.9569573450382953
+-0.4710092404940984
+1.6065309808847108
+1.473210441931094
+2.46571450255626
+1.141049664280053
+0.1911470260615549
+0.16300793102602812
+5.255928220228896

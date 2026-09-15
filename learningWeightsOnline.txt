@@ -1,0 +1,22 @@
+# whist learning agent weights
+# updateMode: online
+# trainingDeals: 2000
+# learningRate: 0.01
+# deckSeed: 1
+# playerSeed: 1
+# provenance: relabelled from snapshots/preStabilisation7g/learningWeights.txt; the 7g baseline agent
+# curveFile: results/learningCurveBaselinePerDealReturn.csv
+0.4508047846474058
+-0.022511340090285263
+-0.4409567188435925
+0.020855473455562355
+0.21016731695463878
+-2.2061602644859297
+-0.3780664275917855
+1.6487334979641466
+0.6477880475343208
+3.4457793719258927
+1.310637023175236
+0.09075151982835282
+1.4693791282570228
+5.005771180546945
